@@ -219,7 +219,7 @@ collections:
     permalink: /:collection/_teaching/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:_publications/
   portfolio:
     output: true
     permalink: /:collection/:path/
