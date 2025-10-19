@@ -3,7 +3,7 @@ title: "Unsupervised Multi-channel Speech Dereverberation Via Diffusion"
 collection: publications
 category: Speech Enhancement
 permalink: https://arxiv.org/abs/2508.02071
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-06
 venue: 'WASPAA 2025'
 slidesurl: 'https://usddps.github.io/USDDPS_demo/'
