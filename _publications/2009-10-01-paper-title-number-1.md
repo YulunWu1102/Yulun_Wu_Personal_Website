@@ -8,6 +8,7 @@ date: 2025-07-02
 venue: 'WASPAA'
 slidesurl: 'https://usddps.github.io/USDDPS_demo/'
 paperurl: 'https://arxiv.org/pdf/2508.02071'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Wu, Y., Xu, Z., Chen, J., Wang, Z. Q., & Choudhury, R. R. (2025). Unsupervised Multi-channel Speech Dereverberation via Diffusion. arXiv preprint arXiv:2508.02071.'
 
 ---
