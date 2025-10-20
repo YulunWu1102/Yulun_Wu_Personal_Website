@@ -3,12 +3,12 @@ title: "Unsupervised Multi Channel Speech Dereverberation Via Diffusion"
 collection: publications
 category: conferences
 permalink: /publication/2025-07-02-Unsupervised-Multi-Channel-Speech-Dereverberation-Via-Diffusion
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We consider the problem of multi-channel single-speaker blind dereverberation, where multi-channel mixtures are used to recover the clean anechoic speech. To solve this problem, we propose USD-DPS, {U}nsupervised {S}peech {D}ereverberation via {D}iffusion {P}osterior {S}ampling. USD-DPS uses an unconditional clean speech diffusion model as a strong prior to solve the problem by posterior sampling. At each diffusion sampling step, we estimate all microphone channels room impulse responses (RIRs), which are further used to enforce a multi-channel mixture consistency constraint for diffusion guidance. For multi-channel RIR estimation, we estimate reference-channel RIR by optimizing RIR parameters of a sub-band RIR signal model, with the Adam optimizer. We estimate non-reference channelsRIRs analytically using forward convolutive prediction (FCP). We found that this combination provides a good balance between sampling efficiency and RIR prior modeling, which shows superior performance among unsupervised dereverberation'
 date: 2025-07-02
-venue: 'WASPAA 2025'
+venue: 'WASPAA'
 slidesurl: 'https://usddps.github.io/USDDPS_demo/'
 paperurl: 'https://arxiv.org/pdf/2508.02071'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Wu, Y., Xu, Z., Chen, J., Wang, Z. Q., & Choudhury, R. R. (2025). Unsupervised Multi-channel Speech Dereverberation via Diffusion. arXiv preprint arXiv:2508.02071.'
 
 ---
