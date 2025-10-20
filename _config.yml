@@ -23,7 +23,7 @@ repository               : "yulunwu1102/yulunwu1102.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PROFILE.png"
   name             : "Yulun (Ben) Wu"
   pronouns         : "He/Him"  
   bio              : "Second year MS. ECE student at University of Illinois Urbana Champaign. Interested in speech audio research and machine learning."
@@ -219,10 +219,10 @@ collections:
     permalink: /:collection/_teaching/
   publications:
     output: true
-    permalink: /:collection/:_publications/
+    permalink: /:collection/_publications/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/_portfolio/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
